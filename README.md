@@ -1,5 +1,5 @@
 # Review-HTML
- Dibuat ketika masa Learning From Home karena CoVid-19, sebagai bentuk review untuk materi Pemrograman Berbasis Web, khususnya HTML. 
+ Dibuat ketika masa Learning From Home karena Covid-19, sebagai bentuk review untuk materi Pemrograman Berbasis Web, khususnya HTML. 
  
  Sumber latihan: youtube.com/webprogrammingunpas
  
